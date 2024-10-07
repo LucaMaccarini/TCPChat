@@ -2,7 +2,7 @@
 
 <img src="chat.png" width="1000">
 
-A multithreaded TCP-based multiuser chat
+A TCP-based multi-user chat
 
 # Description
 This repository contains a project that implements a TCP chat application where multiple users can connect and exchange messages in real-time. The server is multithreaded, meaning it can handle multiple clients simultaneously.
