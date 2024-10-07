@@ -1,0 +1,103 @@
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.login.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.exe.config
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.pdb
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.pdb
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.exe.config
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\bin\Debug\chat client.pdb
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.login.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.pdb
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe.config
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.pdb
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.login.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe.config
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csprojResolveAssemblyReference.cache
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.login.resources
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\bin\Debug\chat client.exe.config
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat client.exe
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat client.pdb
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\bin\Debug\chat client.exe
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\bin\Debug\chat client.pdb
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat client.csprojResolveAssemblyReference.cache
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat_client.login.resources
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+C:\Users\maccarini.14109\Desktop\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe.config
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\bin\Debug\chat client.pdb
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.login.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat client\chat client\obj\Debug\chat client.pdb
+C:\Users\lucam\Desktop\chat client\chat client\bin\Debug\chat client.exe.config
+C:\Users\lucam\Desktop\chat client\chat client\bin\Debug\chat client.exe
+C:\Users\lucam\Desktop\chat client\chat client\bin\Debug\chat client.pdb
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat_client.Form1.resources
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat_client.login.resources
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.cache
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat client.exe
+C:\Users\lucam\Desktop\chat client\chat client\obj\Debug\chat client.pdb
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\bin\Debug\chat client.exe.config
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\bin\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\bin\Debug\chat client.pdb
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat client.csprojAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat_client.Form1.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat_client.login.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat client.csproj.CoreCompileInputs.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat client.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\tutti chat client\chat client\chat client\obj\Debug\chat client.pdb
+C:\Users\maccarini.14109\Desktop\chat client\chat client\bin\Debug\chat client.exe.config
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat client.exe
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat client.pdb
+C:\Users\maccarini.14109\Desktop\chat client\chat client\bin\Debug\chat client.exe
+C:\Users\maccarini.14109\Desktop\chat client\chat client\bin\Debug\chat client.pdb
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat client.csprojResolveAssemblyReference.cache
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.Form1.resources
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.login.resources
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.Properties.Resources.resources
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat_client.riscontro.resources
+C:\Users\maccarini.14109\Desktop\chat client\chat client\obj\Debug\chat client.csproj.GenerateResource.Cache

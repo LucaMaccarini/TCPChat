@@ -1,0 +1,43 @@
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.exe
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.pdb
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+E:\5A-TEP\Materiale_Socket\socket_da_adriano\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.pdb
+C:\Users\w7\Desktop\socket\Socket_Server_Multithreads\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\5IATEP\Sockets\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+I:\5IATEP\Sockets\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\Socket_Server_Multithreads\bin\Debug\Socket_Server_Multithreads.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\Socket_Server_Multithreads\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.csprojAssemblyReference.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.csproj.CoreCompileInputs.cache
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.pdb
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.exe
+G:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.pdb
+E:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.exe
+E:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.pdb
+E:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.exe
+E:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.pdb
+E:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+C:\Users\maccarini.14109\Desktop\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.exe
+C:\Users\maccarini.14109\Desktop\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.pdb
+C:\Users\maccarini.14109\Desktop\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.exe
+C:\Users\maccarini.14109\Desktop\chat server-client\chat server\bin\Debug\Socket_Server_Multithreads.pdb
+C:\Users\maccarini.14109\Desktop\chat server-client\chat server\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\bin\Debug\Socket_Server_Multithreads.exe
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\bin\Debug\Socket_Server_Multithreads.pdb
+I:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.csprojResolveAssemblyReference.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\bin\Debug\Socket_Server_Multithreads.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\bin\Debug\Socket_Server_Multithreads.pdb
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.csprojAssemblyReference.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.csproj.CoreCompileInputs.cache
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.exe
+F:\luca\indirizzo informatica\tep\Sockets\chat server-client\chat server con dizionario\obj\x86\Debug\Socket_Server_Multithreads.pdb
