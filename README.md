@@ -9,4 +9,4 @@ This repository contains a project that implements a TCP chat application where 
 
 Once a client is connected, users can view the list of other connected users and start private chats with them.
 
-In the file [chat.docx](./chat.docx) you can find a brief specification of the application protocol that I made on tcp to make understand the client with the server and vice versa
+In the file [chat.docx](./chat.docx) you can find a brief specification of the application protocol that I made on TCP to make understand the client with the server and vice versa
