@@ -1,6 +1,6 @@
 # TCPChat
 
-<img src="chat.png" width="600">
+<img src="chat.png" width="1000">
 
 A multithreaded TCP-based multiuser chat
 
